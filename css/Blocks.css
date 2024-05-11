@@ -1,0 +1,48 @@
+body{
+	background-color: violet;
+}
+p{
+	background-color: purple;
+	color: yellow;
+	font-size: 50px;	
+}
+.p2{
+	display: inline;
+}
+
+.p1 span{
+	font-style: italic;
+	background-color: fuchsia;
+	border: 5px dashed green;
+	display: inline;
+}
+#first{
+	width: 400px;
+	height: 400px;
+	background-color: olive;
+    align-items: center;
+	justify-content: center;
+	display: flex;
+	font-size: 48px;
+	border: 20px yellow;
+	border-style: dashed dotted dashed solid;
+}
+#second{
+	width: 500px;
+	height: 500px;
+	background-color: burlywood;
+	padding: 50px;
+	margin: 100px;
+	border: 20px dashed;
+	border-color: red green yellow blue;
+}
+#third,#forth{
+	width: 700px;
+	height: 200px;
+	background-color: fuchsia;
+	margin: 20px;
+    border: 35px;
+    border-style: solid;
+    border-color: blue red green yellow;
+    
+}
